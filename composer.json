@@ -1,0 +1,18 @@
+{
+    "name": "sugesp/phpoo",
+    "authors": [
+        {
+            "name": "Edson Estevao",
+            "email": "edson.n.estevao@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\":"app"
+        },
+        "files": [
+            
+        ]
+    }
+}
